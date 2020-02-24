@@ -1,0 +1,15 @@
+Alpha mistake is when we take action
+beta mistake is do not take action.
+p>alpha null hypothesis
+p<alpha alternative hypothesis
+Memory tip:
+p high null fly i.e. Fail to reject h0
+p low null go i.e. let h0 go, whcih means reject h0
+
+One of the best transformation technique is 'Log transformation'.
+Generally '=' will always go to null hypothesis
+
+Imp takeaway: Where ever there is null hypothesis there is 'assumption'.
+So instead of normal conclusion of H0 we are always say assumption. Refer 'Hypothesis testing - Example in deck'
+
+Normality test -> Variance test -> 2 Sample t test
